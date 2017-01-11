@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ab385b0-13dd-4f18-aad7-1aab1d3c8186" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/training_dataset_stream.csv" afterPath="$PROJECT_DIR$/training_dataset_stream.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="stream_prediction_machine_learning.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,11 +33,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="training_dataset_stream.csv" pinned="false" current-in-tab="true">
+      <file leaf-file-name="training_dataset_stream.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/training_dataset_stream.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-425">
               <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -52,6 +63,7 @@
       <list>
         <option value="$PROJECT_DIR$/training_dataset_stream.csv" />
         <option value="$PROJECT_DIR$/student_stream_predict.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -341,6 +353,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-425">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
           <folding />
         </state>
       </provider>
