@@ -34,6 +34,6 @@ print rfc.predict(X_test)
 #try and get a predication for below academic marks in an order
 # Math,Science,English,Social_Studies,Language
 
-print rfc.predict([[36,54,67,54,56]]) #predicts 1 = Arts
-print rfc.predict([[96,84,67,84,56]]) #predicts 3 = Science
-print rfc.predict([[56,44,67,54,56]]) #predicts 2 = Commerce
+print rfc.predict([[36,54,67,54,66]]) #predicts 1 = Arts
+print rfc.predict([[96,84,67,84,87]]) #predicts 3 = Science
+print rfc.predict([[56,44,67,54,71]]) #predicts 2 = Commerce
